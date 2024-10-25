@@ -1,5 +1,4 @@
 # art
-<!DOCTYPE html>
 <head>
     <title>Luxury NFT Gallery</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
